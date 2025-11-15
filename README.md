@@ -1,16 +1,45 @@
-# React + Vite
+# React+ Vite
+A sleek, modern React-based car showcase website featuring dynamic hero slides, immersive background visuals, and an elegant UI for automotive branding.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🎞 Dynamic Hero Section
 
-Currently, two official plugins are available:
+Displays multiple promotional car taglines
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Smooth transitions controlled by state
 
-## React Compiler
+Customizable text lines for each slide
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Managed using React’s useState
 
-## Expanding the ESLint configuration
+**📽 Interactive Background
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Background component reacts to user actions
+
+Option to play/stop an embedded background video
+
+Creates a premium showroom-like feel
+
+🧭 Minimal & Stylish Navbar
+
+Easy navigation structure
+
+Clean and modern design consistent with car brand websites
+
+🛠 Tech Stack
+
+React.js
+
+JavaScript (ES6+)
+
+Vite / CRA (depending on your setup)
+
+CSS / Custom styles
+
+Reusable Components
+
+Navbar
+
+Hero
+
+Background
